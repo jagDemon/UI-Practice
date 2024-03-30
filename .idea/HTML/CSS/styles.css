@@ -1,0 +1,30 @@
+body {
+    background-color: silver;
+}
+
+p{
+    background-color: #ffc3c3;
+    font-size: 15px;
+    font-family: "Arial";
+}
+
+.class1{
+    background-color: #4f6772;
+    font-size: 16px;
+    font-family: "Arial Black";
+    color: #49070a;
+}
+/*#signup{*/
+/*    background-color: green;*/
+/*}*/
+
+.btn1{
+    background-color: aliceblue;
+    font-size:
+            15px;
+}
+
+.btnFont:hover{
+    font-family: "Droid Sans";
+    font-size: 36px;
+}
